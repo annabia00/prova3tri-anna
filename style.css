@@ -1,0 +1,15 @@
+body{
+    background-color: deeppink;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    
+}
+.rosa {
+    font-style: italic; 
+    justify-content: center;
+    font-size: medium;
+
+}
